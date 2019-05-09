@@ -31,7 +31,7 @@ $ git clone https://github.com/yukshimizu/meetup-demo
 3. Install dependencies
 ```
 $ cd meetup-demo
-$ pip3 install -f requirements.txt
+$ pip3 install -r requirements.txt
 ```
 4. Configure Logstash
 Assuming that Logstash has been already installed on same machine, change logstash.yml file in order to enable Logstash management and monitoring features.
